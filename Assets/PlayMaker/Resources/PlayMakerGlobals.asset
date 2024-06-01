@@ -46,3 +46,7 @@ MonoBehaviour:
   - UI / Destroy
   - UI / Reset
   - UI / Open
+  - UI / Close
+  - UI / Assign
+  - UI / Description
+  - UI / Update
