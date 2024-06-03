@@ -50,3 +50,6 @@ MonoBehaviour:
   - UI / Assign
   - UI / Description
   - UI / Update
+  - UI / Remove
+  - UI / Test
+  - UI / UpdateEnergyUse
