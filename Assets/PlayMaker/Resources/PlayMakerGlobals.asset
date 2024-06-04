@@ -53,3 +53,5 @@ MonoBehaviour:
   - UI / Remove
   - UI / Test
   - UI / UpdateEnergyUse
+  - UI / AddEnergyUse
+  - UI / SubtractEnergyUse
