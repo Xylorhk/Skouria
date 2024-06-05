@@ -55,3 +55,7 @@ MonoBehaviour:
   - UI / UpdateEnergyUse
   - UI / AddEnergyUse
   - UI / SubtractEnergyUse
+  - UIData / Save
+  - UIData / Load
+  - UIData / AddVisorSlot
+  - UIData / Reset
