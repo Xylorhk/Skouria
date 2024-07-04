@@ -47,10 +47,8 @@ MonoBehaviour:
   - UI / Reset
   - UI / Open
   - UI / Close
-  - UI / Assign
   - UI / Description
   - UI / Update
-  - UI / Remove
   - UI / Test
   - UI / UpdateEnergyUse
   - UI / AddEnergyUse
@@ -59,3 +57,12 @@ MonoBehaviour:
   - UIData / Load
   - UIData / AddVisorSlot
   - UIData / Reset
+  - UIData / Remove
+  - UI / Rebuild
+  - UI / Assign
+  - UI / Remove
+  - UI / CheckItem
+  - UI / AddItem
+  - Next
+  - UI / Next
+  - UI / Equip
